@@ -1,2 +1,2 @@
-# Exerc-cios-Algoritmos
+# Exerccios-Algoritmos
 Esse repositório e para guardar exercícios de algoritmos
